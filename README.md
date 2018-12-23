@@ -1,2 +1,2 @@
 # velocity-adjust
-Adjust the velocity parameter in the Vocaloid editor based on consonant value.
+Adjust the velocity parameter in the Vocaloid editor based on consonant value. October 2018.
